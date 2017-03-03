@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,mbc masr2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+#EXTINF:-1,osn alyawm
+http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
+#EXTINF:-1,Abu Dhabi geographical
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:-1,LDC
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1,almsrya
+http://selevision9877-i.akamaihd.net/hls/live/219126/98778/1.m3u8
+#EXTINF:-1,alula masr
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+#EXTINF:-1,alhayat2
+http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
+#EXTINF:-1,dreamtv
+http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
+#EXTINF:-1,MBC3
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+#EXTINF:-1,panorama food
+http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
