@@ -19,3 +19,5 @@ http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 #EXTINF:-1,panorama food
 http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
+#EXTINF:0,Al Jazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
