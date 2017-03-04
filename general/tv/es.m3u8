@@ -5,3 +5,13 @@ http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:-1,El Correo TV
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:0, Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:0, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:0, ForoTV
+#EXTINF:0, Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0, La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
