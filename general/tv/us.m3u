@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Bloomberg
-http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8?geo_country=US
-#EXTINF:-1,Bloomberg US
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
-#EXTINF:-1,Bloomberg ASIA
-http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
-#EXTINF:-1,Bloomberg UK
-http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",EN: BLOOMBERG US HD
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",Bloomberg US
+https://live-bloomberg-us-east.global.ssl.fastly.net/us/us6_live.m3u8
 
 #EXTINF:-1,Smile of a Child
 http://84.22.46.188/play/a00s
