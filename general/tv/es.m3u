@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,SBT Sistema Brasileiro de Televisão
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.4857.13510798887113084.9cbbcb2a-6e6b-4fdd-a963-df78e76e20b0.eb8db933-9604-4111-afdf-cc525767f162?w=180&h=180&q=60",Digi24
 http://82.76.40.75/digi24edge/smil:digi24.smil/playlist.m3u8
 #EXTINF:-1,Telemadrid
