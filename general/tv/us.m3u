@@ -4,6 +4,9 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",Bloomberg US
 https://live-bloomberg-us-east.global.ssl.fastly.net/us/us6_live.m3u8
 
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", tvg-logo="https://i.imgsafe.org/f568d8afe9.jpg",EUROSPORT 1 HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
 #EXTINF:-1,Smile of a Child
 http://84.22.46.188/play/a00s
 
