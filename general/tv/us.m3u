@@ -1,42 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",EN: BLOOMBERG US HD
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0 tvg-logo="https://i.vimeocdn.com/portrait/6313861_300x300" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="TEST",Bloomberg US
-https://live-bloomberg-us-east.global.ssl.fastly.net/us/us6_live.m3u8
+#EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="US" tvg-id="Newsmax-TV" tvg-logo="http://i.imgur.com/Twkovic.gif" group-title="Entertainment",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/ODIWC6n.jpg" tvg-name="Infowars" tvg-id="Infowgloars" group-title="News",Infowars Live
+https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0 tvg-name="Russia today USA" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News",RT USA
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:0 tvg-name="Russia today France" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/cOG7OSB.png" group-title="News",RT France
+https://secure-streams.akamaized.net/rt-fr/index.m3u8
+#EXTINF:0 tvg-name="Russia today France YT" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/cOG7OSB.png" group-title="News",RT France | Youtube 
+https://www.youtube.com/watch?v=rjcyBzzE7-A
+#EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="http://i.imgur.com/6iJiWUe.png",RT Documentary
+https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+#EXTINF:0 tvg-name="PressTV" tvg-language="English" tvg-country="IR" tvg-id="Presstv" group-title="News" tvg-logo="http://www.merih-news.com/wp-content/uploads/2015/06/PressTV-Logo.jpg",Presstv live
+http://204.155.154.90:1935/live/ngrp:ptven_all/playlist.m3u8
+#EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/GBIoooY.jpg" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG US HD
+https://bblive-liveproduswest.hs.llnwd.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE" tvg-logo="https://i.imgsafe.org/f568d8afe9.jpg",EUROSPORT 1 HD
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/GBIoooY.jpg" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG EUROPE
+https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1,Smile of a Child
-http://84.22.46.188/play/a00s
-
-#EXTINF:-1,ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,TRAVEL
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1,ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,SHOWTIME  HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,?
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1,SCI HD
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:-1,HBO-HD
-http://163.172.214.251:8000/play/HBO-HD
-#EXTINF:-1,US-BRAVO-HD
-http://163.172.214.251:8000/play/US-BRAVO-HD
-#EXTINF:-1,AMCHD
-http://163.172.214.251:8000/play/AMCHD
-#EXTINF:-1,CBS-HD
-http://163.172.214.251:8000/play/CBS-HD
-
-#EXTINF:-1,EuroNews
-http://84.22.46.188/play/a015
+#EXTINF:0 tvg-language="English" tvg-country="US" tvg-logo="https://i.imgur.com/3zfCuGm.png" tvg-name="BLOOMBERG" tvg-id="BLOOMBERG" group-title="News",EN: BLOOMBERG AUSTRALIA
+https://liveprodapnortheast.akamaized.net/btv/desktop/aus_live.m3u8
